@@ -39,29 +39,29 @@
 
 #0210
 <KEY<FLJ1590:0220<MSG<TUR
-「ハルダー」<NOD<END
+Ⅰ．ハルダー<NOD<END
 #0211
 <KEY<FLJ1591:0221<MSG<TUR
-「アンナチュポネ」<NOD<END
+Ⅱ．アンナチュポネ<NOD<END
 #0212
 <KEY<FLJ1592:0222<MSG<TUR
-「ミアキド」<NOD<END
+Ⅲ．ミアキド<NOD<END
 #0213
 <KEY<FLJ1593:0223<MSG<TUR
-「ダテ フユヒコ」<NOD<END
+Ⅳ．ダテ フユヒコ<NOD<END
 
 #0220
 <KEY<MSG<TUR
-「クォート」<NOD<END
+Ⅰ．クォート<NOD<END
 #0221
 <KEY<MSG<TUR
-「トロ子」<NOD<END
+Ⅱ．トロ子<NOD<END
 #0222
 <KEY<MSG<TUR
-「キング」<NOD<END
+Ⅲ．キング<NOD<END
 #0223
 <KEY<MSG<TUR
-「カーリーブレイス]<NOD<END
+Ⅳ．カーリーブレイス<NOD<END
 
 
 #0300
